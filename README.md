@@ -21,7 +21,7 @@ Notes:
 
 * clone 
   * git clone --recursive https://github.com/cimgui/cimgui.git
-  * git submodule update
+  * git submodule update --init --recursive
 * compile 
   * using makefile on linux/macOS/mingw (Or use CMake to generate project)
   * or as in https://github.com/sonoro1234/LuaJIT-ImGui/tree/master/build
